@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá eu sou o Pedro!<br><br>Cientista de Dados e Dev Júnior. 
+Olá eu sou o Pedro!<br><br>Cientista de Dados/Dev Júnior. 
 
 
 # 💻 Tech Stack:
