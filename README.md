@@ -12,7 +12,7 @@ Olá eu sou o Pedro!<br><br>Cientista de Dados Júnior 👨‍💻
   
   
 </div> 
-# 📊 GitHub Stats:
+📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=alveespedro&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alveespedro&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alveespedro&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
