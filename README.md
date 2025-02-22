@@ -16,19 +16,23 @@ Olá eu sou o Pedro!<br><br>Cientista de Dados Júnior 👨‍💻
   
 ## 📊 GitHub Stats
 
-### Estatísticas Gerais
-![](https://github-readme-stats.vercel.app/api?username=alveespedro&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+<div style="display: flex; justify-content: space-around;">
 
-### Streak de Contribuições
-![](https://github-readme-streak-stats.herokuapp.com/?user=alveespedro&theme=radical&hide_border=false)
+  <img src="https://github-readme-stats.vercel.app/api?username=alveespedro&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="30%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alveespedro&theme=radical&hide_border=false" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alveespedro&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="30%" />
 
-### Linguagens Mais Usadas
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alveespedro&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
 
 ### Contagem de Visitas
-[![](https://visitcount.itsvg.in/api?id=alveespedro&icon=0&color=0)](https://visitcount.itsvg.in)
+<div style="text-align: center;">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=alveespedro&icon=0&color=0" />
+  </a>
+</div>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
