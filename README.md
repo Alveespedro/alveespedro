@@ -14,13 +14,22 @@ Olá eu sou o Pedro!<br><br>Cientista de Dados Júnior 👨‍💻
 
   
   
-<div style="display: inline_block"><br>
-📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alveespedro&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alveespedro&theme=radical&hide_border=false)<br/>
+## 📊 GitHub Stats
+
+### Estatísticas Gerais
+![](https://github-readme-stats.vercel.app/api?username=alveespedro&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+
+### Streak de Contribuições
+![](https://github-readme-streak-stats.herokuapp.com/?user=alveespedro&theme=radical&hide_border=false)
+
+### Linguagens Mais Usadas
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alveespedro&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ---
+
+### Contagem de Visitas
 [![](https://visitcount.itsvg.in/api?id=alveespedro&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
